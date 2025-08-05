@@ -38,8 +38,8 @@ fun TataletakColumn() {
             .padding(16.dp), // Modifier: Padding
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text(text = "Data Mahasiswa", fontSize = 25.sp)
-        Text(text = "Teknologi Informasi", fontSize = 17.sp)
+        Text(text = "Data Mahasiswa", fontSize = 40.sp)
+        Text(text = "Teknologi Informasi", fontSize = 29.sp)
 
         Spacer(modifier = Modifier.height(20.dp)) // Untuk memberi jarak
 
